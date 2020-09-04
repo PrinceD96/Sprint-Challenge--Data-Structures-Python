@@ -22,6 +22,8 @@ duplicates = []  # Return the list of duplicates in this data structure
 # list comprehension reduced the runtime to 2.982466697692871 seconds
 # [duplicates.append(n1) for n1 in names_1 for n2 in names_2 if n1 == n2]
 
+
+# STRETCH!!!!!!!!!!!!!!!!!!!!
 # BST reduced the runtime to 0.11080193519592285 seconds
 list1 = BSTNode(names_1[0])
 next(iter(names_1))
